@@ -14,10 +14,7 @@ website:
       - Bio.qmd
       - Gallery.qmd
       - Video.qmd
-     
       
-      
-
 format:
   html:
     theme: lux

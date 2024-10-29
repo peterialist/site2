@@ -1,20 +1,20 @@
 ---
-title: "Aerial and Movement Artist"
-image: BlockPic11.png
+title: Aerial and Movement Artist
+image: BlockPic14.png
 resources: Peteria_Chan_Circ_Dance_Resume_Oct_2024.pdf
 about:
   template: jolla 
   image-shape: rectangle
-  image-width: 50em
-  links: 
-    - text: Email
-      icon: envelope 
-      href: mailto:peteria.chan@gmail.com
-    - text: Instagram
-      icon: instagram
-      href: https://www.instagram.com/peterialist/
-    - text: CV
-      icon: file-text
-      href: Peteria_Chan_Circ_Dance_Resume_Oct_2024.pdf
+  image-width: 43em
+  #links: 
+    #- text: Email
+     # icon: envelope 
+      #href: mailto:peteria.chan@gmail.com
+  #  - text: Instagram
+     # icon: instagram
+     # href: https://www.instagram.com/peterialist/
+   # - text: CV
+    #  icon: file-text
+     # href: Peteria_Chan_Circ_Dance_Resume_Oct_2024.pdf
 ---
 
