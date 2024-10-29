@@ -1,19 +1,20 @@
 ---
-title: "About Me"
+title: "Aerial and Movement Artist"
+image: BlockPic11.png
+resources: Peteria_Chan_Circ_Dance_Resume_Oct_2024.pdf
 about:
-  id: me
-  template: broadside
-  image: img/profile.png
+  template: jolla 
+  image-shape: rectangle
+  image-width: 50em
+  links: 
+    - text: Email
+      icon: envelope 
+      href: mailto:peteria.chan@gmail.com
+    - text: Instagram
+      icon: instagram
+      href: https://www.instagram.com/peterialist/
+    - text: CV
+      icon: file-text
+      href: Peteria_Chan_Circ_Dance_Resume_Oct_2024.pdf
 ---
 
-:::{#me}
-
-## Goals
-
-## Education
-
-## Experience
-
-:::
-
-Thanks for checking out my web site!
