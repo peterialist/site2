@@ -1,0 +1,28 @@
+---
+title: "Gallery"
+lightbox: true
+---
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(400px, 2fr));grid-gap: 2em;"}
+
+
+![](s1.png){group="my-gallery"}
+
+![](BlockPic12.png){group="my-gallery"}
+
+![](splitb.png){group="my-gallery"}
+
+![](str_peace.png){group="my-gallery"}
+
+![](alt.png){group="my-gallery"}
+
+![](purple.png){group="my-gallery"}
+
+![](lean.png){group="my-gallery"}
+
+![](nutc_2.png){group="my-gallery"}
+
+:::
+---
+
+## 
