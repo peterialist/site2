@@ -1,3 +1,18 @@
 ---
 title: "Video"
+lightbox: true
 ---
+
+Performance Reel
+
+{{< video https://www.youtube.com/watch?v=mh9WtU4C_Fc >}}
+
+------------------------------------------------------------------------
+
+Character Act on Silks- Ursula/Sea Witch for the 2024 GRIMM Dark Fairytales show produced by StudioXPresents
+
+{{< video https://www.youtube.com/watch?v=USGegb9zeMk >}}
+
+Georgia Drumbeat Act on Silks- 2022 Florida Aerial Arts Championship
+
+{{< video https://youtu.be/kWJnQDhWyQc >}}
