@@ -1,5 +1,5 @@
 ---
-title: Aerial & Movement Artist
+title: Aerial and Movement Artist
 image: BlockPic15.png
 resources: Peteria_Chan_Circ_Dance_Resume_Oct_2024.pdf
 about:
