@@ -1,0 +1,42 @@
+---
+title: "CV"
+---
+
+https://quarto.org/docs/authoring/markdown-basics.html
+
+### PERFORMANCES
+
+#### 2024
+*    October, *Altitude* *Aerial* *Arts* *Showcase*, silks performer – Frisco, TX
+*    September, *Carolina* *Circus* *Festival*, Pro-show, silks performer – Cary, NC
+*    September, *Studio* *X* *Presents* *GRIMM* *Show*, silks performer – Worcester, MA
+*    June, *Texas* *Pole* *Showdown*, rope performer – Frisco, TX
+*    April, *Altitude* *Aerial* *Arts* *Showcase*, silks performer – Frisco, TX
+
+#### 2022
+*    December, *Inflye* *Entertainment* *Nutcracker*, silks performer – Hudson, MA
+*    November, *Open* *Stage*s *Show* *at* *The* *Muse* *Cirque*, silks performer – Brooklyn, NY
+*    October, *Inflye* *Entertainment* *Showcase*, silks performer – Hudson, MA
+*    September, *Studio* *X* *Presents* *Diety* *Show*, silks performer – Worcester, MA
+*    June, *Hudson* *Fest*, silks performer – Hudson, MA
+*    June, *Inflye* *Entertainment* *Showcase*, silks performer - Hudson, MA
+
+#### 2021
+*    May, *Circus* *Complex* *Spring* *Showcase*, silks performer – Newton, MA
+
+#### 2020
+*    October, *Studio* *X* *Presents* *Drive-thru* *Haunted* *House*, aerialist - East Brookfield, MA 
+
+
+### COMPETITIONS & AWARDS
+*    2022 Florida Aerial Arts Championship, Semi-Pro Adult Silks, *1st* *place* 
+*    2022 VIVA Fest, Student Silks 30+, *1st* *place* 
+*    2021 Aerialympics Regionals, Advanced Adult Silks, *1st* *place* 
+*    2019 Aerialympics Regionals, Intermediate Adult Silks, *1st* *place* 
+
+### TRAINING
+*    item
+*    item
+*    item
+*    item
+---
