@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Peteria Rose"
+  title: "Peteria Rose Aerial"
   navbar:
     pinned: true
     collapse: true
