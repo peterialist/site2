@@ -9,8 +9,11 @@ about:
   links: 
     - text: Email
       icon: envelope 
-      href: mailto:peteria.chan@gmail.com
+      href: mailto:proseaerial@gmail.com
     - text: Instagram
       icon: instagram
       href: https://www.instagram.com/peterialist/
+    - text: CV
+      icon: file-text
+      href: Peteria_Chan_Circ_Dance_Resume_Oct_2024.pdf
 ---
